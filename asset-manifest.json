@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tarea-8/static/css/main.a83742df.css",
+    "main.js": "/tarea-8/static/js/main.a38daefa.js",
+    "index.html": "/tarea-8/index.html",
+    "main.a83742df.css.map": "/tarea-8/static/css/main.a83742df.css.map",
+    "main.a38daefa.js.map": "/tarea-8/static/js/main.a38daefa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83742df.css",
+    "static/js/main.a38daefa.js"
+  ]
+}
